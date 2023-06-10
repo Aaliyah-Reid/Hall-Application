@@ -1,0 +1,11 @@
+Mark James 620364785 20 male 876-355-3455 mjones@gmail.com 3 Returning Undergraduate SocialSciences PoliticalScience TH C7
+Kate Jones 620134256 21 female 876-345-6789 katejones21@gmail.com 1 New Undergraduate Engineering MechanicalEngineering RNH B36
+Amy Lee 620145634 21 female 876-564-2345 amylee21@gmail.com 2 Returning Undergraduate Science&Technology ComputerScience RNH B24
+James Bond 620189334 25 male 876-667-7689 jamesbond25@gmail.com 5 Returning Postgraduate SocialSciences PoliticalScience RNH D17
+Nichole Dawn 620189756 24 female 876-345-9044 nicholedawn24@gmail.com 5 Returning Postgraduate Science&Technology Chemistry RNH D42
+Akeem Spence 520167845 21 male 876-456-3457 akeemspence21@gmail.com 3 Returning Undergraduate Engineering CivilEngineering TH C20
+Betty Green 620123489 19 female 876-987-4567 bettygreen19@gmail.com 1 New Undergraduate Science&Technology MedicalPhysics RNH D27
+Jada King 620167789 20 female 876-334-5567 jadaking20@gmail.com 2 Returning Undergraduate Hiumanities&Education AnimationBFA TH B39
+Jane Benton 620177887 22 female 876-222-7727 janebenton22@gmail.com 4 Returning Postgraduate Sport SportsKinetics RNH C46
+Peter Parker 620176777 21 male 876-773-2287 perterparker21@gmail.com 2 Returning Undergraduate SocialSciences ManagementStudies RNH B17
+Nathan Gordon 620156694 19 male 876-783-3567 nathangordon123@outlook.com 1 Returning Undergraduate Science&Technology ElectronicsandComputerScience RNH A13
